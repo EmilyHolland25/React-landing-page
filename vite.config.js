@@ -11,6 +11,6 @@ export default defineConfig({
      tailwindcss(),
     
   ],
-   base: '/React-landing-page',
+   base: '/React-landing-page/',
  
 })
