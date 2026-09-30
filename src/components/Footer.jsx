@@ -7,13 +7,6 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto">
         <div>
           <div className="flex items-center space-x-1 group cursor-pointer mb-3 sm:mb-6">
-            <div>
-              <img
-                className="w-6 h-6 sm:w-8 sm:h-8"
-                src="../src/assets/logo.png"
-                alt="logo"
-              />
-            </div>
             <span className="text-lg sm:text-xl md:text-2xl font-medium">
               <span className="text-blue-500">Splash</span>
               <span className="text-white">Code</span>
