@@ -12,7 +12,7 @@ export default function Navbar() {
             <div>
               <img
                 className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10"
-                src="../src/assets/logo.png"
+                src="./src/assets/logo.png"
                 alt="logo"
               />
             </div>
